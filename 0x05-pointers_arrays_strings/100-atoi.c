@@ -27,7 +27,7 @@ int _atoi(char *s)
 		}
 		len++;
 	}
-
+	
 	for (; numcount > 1; numcount--)
 		{
 			mult *= 10;
